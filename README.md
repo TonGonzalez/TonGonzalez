@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 E aí, afim de me conhecer? Se liga aí 👇
 
-<!--
-**TonGonzalez/TonGonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Meu nome é Ayrton, tenho 23 anos, sou formado em Cibersegurança 🌐👨‍💻 .
 
-Here are some ideas to get you started:
+#### Sempre fui focado mais na área de redes, porém, recentemente decidi me aprofundar no mundo da programação, me desenvolvendo com:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
+</p>
+
+#### Atualmente, atuo como assistente de tarefas na área de logística, tendo experiência prévia como analista de suporte em um provedor de internet.
+
+## Skills:
+#### - Tomada de decisão
+#### - Liderança de equipe
+#### - Análise de dados
+
+### 🌐 Me conheça melhor:
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayrton-ivan-souza/)
+
+- [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonGonzalez)
+
+- [![Java](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TonGonzalez)
+
+---
+
+Se quiser bater um papo, trocar ideia ou tiver alguma dica, **me chama por aí**! 😄
