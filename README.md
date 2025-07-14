@@ -11,7 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?TonGonzalez=TonGonzalez&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TonGonzalez&layout=compact)
+
 
 
 #### Atualmente, atuo como assistente de tarefas na área de logística, tendo experiência prévia como analista de suporte em um provedor de internet.
