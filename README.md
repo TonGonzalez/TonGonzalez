@@ -11,7 +11,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="50" height="50"/>
 </p>
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TonGonzalez&layout=compact)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=TonGonzalez&layout=compact&theme=tokyonight)
+
 
 
 
